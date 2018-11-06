@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>export</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<string>Saturday, November 3, 2018 at 11:20:17 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-11-04T06:20:17Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/verdugo comp - touchstone climbing series 2018 1.1 telephone.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>Da2yuFpLSRKHrHfsLOaDfg - 2018-11-04 06:18:13 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>Saturday, November 3, 2018 at 11:27:06 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-11-04T06:27:06Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/verdugo comp - touchstone climbing series 2018 1.1 live on.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>Da2yuFpLSRKHrHfsLOaDfg - 2018-11-04 06:24:44 +0000</string>
+		</dict>
+	</array>
+</dict>
+</plist>

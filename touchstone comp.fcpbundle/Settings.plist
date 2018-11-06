@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backupFolderName</key>
+	<string>touchstone comp</string>
+	<key>backupsEnabled</key>
+	<false/>
+	<key>libraryID</key>
+	<string>4F8A957C-A5E4-4418-AF8E-D192F30CD543</string>
+	<key>libraryTemplatesStorageLocation</key>
+	<integer>0</integer>
+</dict>
+</plist>
